@@ -1,3 +1,4 @@
+
 {
   "Usuario": [
     { "id": 1, "login": "admin01", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "admin": true },
@@ -44,6 +45,5 @@
     { "nº": 1, "data": "11/11/2011", "hora": "10:00", "local": "motopista INICIAL" },
     { "nº": 2, "data": "22/22/2011", "hora": "22:00", "local": "motopista UFJF" },
     { "nº": 3, "data": "30/11/2011", "hora": "13:00", "local": "motopista ufjf" }
-  ],
-  
+  ]
 }
