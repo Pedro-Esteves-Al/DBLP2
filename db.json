@@ -1,19 +1,49 @@
 {
   "Usuario": [
-    { "id": 1, "login": "usuario01", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "admin": true },
-    { "id": 2, "login": "usuario02", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "admin": true },
-    { "id": 3, "login": "usuario03", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "admin": true },
-    { "id": 4, "login": "usuario04", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "admin": false },
-    { "id": 5, "login": "usuario05", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "admin": false }
-  ],
-  "aula teórica": [
-    { "id": 1, "nome": "Aula 1", "idAula": 1 }
-  ],
-  "Instrutor": [
-    { "id": 1, "nome": "Professor 1", "cpf": "111111111", "email": "professor1@email.com", "celular": "1111-1111" }
+    { "id": 1, "login": "admin01", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "admin": true },
+    { "id": 2, "login": "admin02", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "admin": true },
+    { "id": 3, "login": "aluno01", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "admin": false },
+    { "id": 4, "login": "aluno02", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "admin": false }
   ],
   "alunos": [
-    { "id": 1, "contrato": 1, "nome": "Aluno 1", "cpf": "111111111", "email": "aluno1@email.com", "celular": "1111-1111", "idContrato": 1 }
-    
-  ]
+    { "nome": "Aluno 1", "cpf": "111111111", "contrato": 1 },
+    { "nome": "Aluno 2", "cpf": "222222222", "contrato": 2 },
+    { "nome": "Aluno 3", "cpf": "33333333333", "contrato": 3 }
+  ],
+   "Instrutor": [
+    { "nome": "instrutor1", "cpf": "111111111" },
+     { "nome": "instrutor2", "cpf": "22222222222" },
+     { "nome": "instrutor3", "cpf": "33333333333" }
+  ],
+   "veículos": [
+    {  "placa": "111111111", "modelo": "yamaha falcon", "categoria": "A" },
+     {  "placa": "22222222", "modelo": "celta", "categoria": "B" },
+     {  "placa": "333333333", "modelo": "onibus", "categoria": "C" }
+  ],
+  "aulas teórica": [
+    { "nº": "1", "data": "15/12/2023", "hora": "11:11", "instrutor": "inst1" },
+    { "nº": "2", "data": "22/12/2023", "hora": "22:22", "instrutor": "inst2" },
+    { "nº": "3", "data": "30/12/2023", "hora": "13:33", "instrutor": "inst3" }
+  ],
+  "aulas práticas": [
+    { "nº": "1", "data": "11/11/2023", "hora": "10:00", "categoria": "A", "instrutor": "inst1" },
+    { "nº": "2", "data": "22/12/2023", "hora": "10:00", "categoria": "B", "instrutor": "inst2" },
+    { "nº": "3", "data": "30/12/2023", "hora": "10:00", "categoria": "C", "instrutor": "inst3" }
+  ],
+   "simulado teórico": [
+    { "data": "11/11/2011", "hora": "10:00" },
+     { "data": "22/12/2022", "hora": "10:00" },
+     { "data": "30/12/2023", "hora": "10:00" }
+  ],
+  "exame teórico": [
+    { "data": "11/11/2011", "hora": "10:00", "local": "uaimg" },
+    { "data": "22/11/2011", "hora": "22:00", "local": "uaimg" },
+    { "data": "30/11/2011", "hora": "13:00", "local": "uaimg" }
+  ],
+  "exame prático": [
+    { "nº": 1, "data": "11/11/2011", "hora": "10:00", "local": "motopista INICIAL" },
+    { "nº": 2, "data": "22/22/2011", "hora": "22:00", "local": "motopista UFJF" },
+    { "nº": 3, "data": "30/11/2011", "hora": "13:00", "local": "motopista ufjf" }
+  ],
+  
 }
