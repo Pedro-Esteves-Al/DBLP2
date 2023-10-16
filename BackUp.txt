@@ -3,7 +3,7 @@
     { "nome": "Aluno 2", "cpf": "222222222", "contrato": 2 },
     { "nome": "Aluno 3", "cpf": "33333333333", "contrato": 3 }
   ],
-   "instrutor": [
+   "instrutores": [
     { "nome": "instrutor1", "cpf": "111111111" },
      { "nome": "instrutor2", "cpf": "22222222222" },
      { "nome": "instrutor3", "cpf": "33333333333" }
