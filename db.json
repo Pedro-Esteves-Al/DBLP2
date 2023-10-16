@@ -10,7 +10,7 @@
      { "nome": "instrutor2", "cpf": "22222222222" },
      { "nome": "instrutor3", "cpf": "33333333333" }
   ],
-   "veículos": [
+   "veiculos": [
     {  "placa": "111111111", "modelo": "yamaha falcon", "categoria": "A" },
      {  "placa": "22222222", "modelo": "celta", "categoria": "B" },
      {  "placa": "333333333", "modelo": "onibus", "categoria": "C" }
