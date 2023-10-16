@@ -12,4 +12,9 @@
     {  "placa": "111111111", "modelo": "yamaha falcon", "categoria": "A" },
      {  "placa": "22222222", "modelo": "celta", "categoria": "B" },
      {  "placa": "333333333", "modelo": "onibus", "categoria": "C" }
+  ],
+   "simulados": [
+    {  "data": "xx-xx-xxxx", "hora": "xx:xx"},
+     {  "data": "xx-xx-xxxx", "hora": "xx:xx"},
+     {  "data": "xx-xx-xxxx", "hora": "xx:xx"}
   ]
