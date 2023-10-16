@@ -1,0 +1,15 @@
+"alunos": [
+    { "nome": "Aluno 1", "cpf": "111111111", "contrato": 1 },
+    { "nome": "Aluno 2", "cpf": "222222222", "contrato": 2 },
+    { "nome": "Aluno 3", "cpf": "33333333333", "contrato": 3 }
+  ],
+   "Instrutor": [
+    { "nome": "instrutor1", "cpf": "111111111" },
+     { "nome": "instrutor2", "cpf": "22222222222" },
+     { "nome": "instrutor3", "cpf": "33333333333" }
+  ],
+   "veículos": [
+    {  "placa": "111111111", "modelo": "yamaha falcon", "categoria": "A" },
+     {  "placa": "22222222", "modelo": "celta", "categoria": "B" },
+     {  "placa": "333333333", "modelo": "onibus", "categoria": "C" }
+  ]
