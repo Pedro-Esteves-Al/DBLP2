@@ -6,9 +6,9 @@
     {  "codigo": "333333333", "data": "xx-xx-xxxx", "hora": "xx:xx", "instrutor": "instrutor1" }
  ],
   "examesTeoricos": [
-    {  "data": "xx-xx-xxxx", "hora": "xx:xx"},
-    {  "data": "xx-xx-xxxx", "hora": "xx:xx"},
-    {  "data": "xx-xx-xxxx", "hora": "xx:xx"}
+    {  "id": "1", "data": "xx-xx-xxxx", "hora": "xx:xx"},
+    {  "id": "2", "data": "xx-xx-xxxx", "hora": "xx:xx"},
+    {  "id": "3", "data": "xx-xx-xxxx", "hora": "xx:xx"}
  ],
   "examesPraticos": [
     {  "data": "xx-xx-xxxx", "hora": "xx:xx", "logradouro": "logradouro1"},
