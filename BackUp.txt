@@ -1,40 +1,40 @@
 "alunos": [
-    { "nome": "Aluno 1", "cpf": "111111111", "contrato": 1 },
-    { "nome": "Aluno 2", "cpf": "222222222", "contrato": 2 },
-    { "nome": "Aluno 3", "cpf": "33333333333", "contrato": 3 }
+    { "id": "1", "nome": "Aluno 1", "cpf": "111111111", "contrato": 1 },
+    { "id": "2", "nome": "Aluno 2", "cpf": "222222222", "contrato": 2 },
+    { "id": "3", "nome": "Aluno 3", "cpf": "33333333333", "contrato": 3 }
   ],
    "instrutores": [
-     { "nome": "instrutor1", "cpf": "111111111" },
-     { "nome": "instrutor2", "cpf": "22222222222" },
-     { "nome": "instrutor3", "cpf": "33333333333" }
+     { "id": "1", "nome": "instrutor1", "cpf": "111111111" },
+     { "id": "2", "nome": "instrutor2", "cpf": "22222222222" },
+     { "id": "3", "nome": "instrutor3", "cpf": "33333333333" }
   ],
    "veiculos": [
-     {  "placa": "111111111", "modelo": "yamaha falcon", "categoria": "A" },
-     {  "placa": "22222222", "modelo": "celta", "categoria": "B" },
-     {  "placa": "333333333", "modelo": "onibus", "categoria": "C" }
+     {  "id": "1", "placa": "111111111", "modelo": "yamaha falcon", "categoria": "A" },
+     {  "id": "2", "placa": "22222222", "modelo": "celta", "categoria": "B" },
+     {  "id": "3", "placa": "333333333", "modelo": "onibus", "categoria": "C" }
   ],
    "simulados": [
-     {  "data": "xx-xx-xxxx", "hora": "xx:xx"},
-     {  "data": "xx-xx-xxxx", "hora": "xx:xx"},
-     {  "data": "xx-xx-xxxx", "hora": "xx:xx"}
+     {  "id": "1", "data": "xx-xx-xxxx", "hora": "xx:xx"},
+     {  "id": "2", "data": "xx-xx-xxxx", "hora": "xx:xx"},
+     {  "id": "3", "data": "xx-xx-xxxx", "hora": "xx:xx"}
   ],
    "aulasTeoricas": [
-     {  "codigo": "111111111", "data": "xx-xx-xxxx", "hora": "xx:xx", "instrutor": "instrutor1" },
-     {  "codigo": "222222222", "data": "xx-xx-xxxx", "hora": "xx:xx", "instrutor": "instrutor2" },
-     {  "codigo": "333333333", "data": "xx-xx-xxxx", "hora": "xx:xx", "instrutor": "instrutor1" }
+     {  "id": "1", "codigo": "111111111", "data": "xx-xx-xxxx", "hora": "xx:xx", "instrutor": "instrutor1" },
+     {  "id": "2", "codigo": "222222222", "data": "xx-xx-xxxx", "hora": "xx:xx", "instrutor": "instrutor2" },
+     {  "id": "3", "codigo": "333333333", "data": "xx-xx-xxxx", "hora": "xx:xx", "instrutor": "instrutor1" }
   ],
    "examesTeoricos": [
-     {  "data": "xx-xx-xxxx", "hora": "xx:xx"},
-     {  "data": "xx-xx-xxxx", "hora": "xx:xx"},
-     {  "data": "xx-xx-xxxx", "hora": "xx:xx"}
+     {  "id": "1", "data": "xx-xx-xxxx", "hora": "xx:xx"},
+     {  "id": "2", "data": "xx-xx-xxxx", "hora": "xx:xx"},
+     {  "id": "3", "data": "xx-xx-xxxx", "hora": "xx:xx"}
   ],
    "examesPraticos": [
-     {  "data": "xx-xx-xxxx", "hora": "xx:xx", "logradouro": "logradouro1"},
-     {  "data": "xx-xx-xxxx", "hora": "xx:xx", "logradouro": "logradouro2"},
-     {  "data": "xx-xx-xxxx", "hora": "xx:xx", "logradouro": "logradouro3"}
+     {  "id": "1", "data": "xx-xx-xxxx", "hora": "xx:xx", "logradouro": "logradouro1", "aluno": "Aluno1", "veiculo": "celta"},
+     {  "id": "2", "data": "xx-xx-xxxx", "hora": "xx:xx", "logradouro": "logradouro2", "aluno": "Aluno2", "veiculo": "celta"},
+     {  "id": "3", "data": "xx-xx-xxxx", "hora": "xx:xx", "logradouro": "logradouro3", "aluno": "Aluno1", "veiculo": "onibus"}
   ],
    "aulasPraticas": [
-     {  "data": "xx-xx-xxxx", "hora": "xx:xx" },
-     {  "data": "xx-xx-xxxx", "hora": "xx:xx" },
-     {  "data": "xx-xx-xxxx", "hora": "xx:xx" }
+     {  "id": "1", "data": "xx-xx-xxxx", "hora": "xx:xx" },
+     {  "id": "2", "data": "xx-xx-xxxx", "hora": "xx:xx" },
+     {  "id": "3", "data": "xx-xx-xxxx", "hora": "xx:xx" }
   ]
