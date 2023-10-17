@@ -26,17 +26,20 @@
     {
       "id": "1",
       "data": "xx-xx-xxxx",
-      "hora": "xx:xx"
+      "hora": "xx:xx",
+      "local": "UAI"
     },
     {
       "id": "2",
       "data": "xx-xx-xxxx",
-      "hora": "xx:xx"
+      "hora": "xx:xx",
+      "local": "UAI"
     },
     {
       "id": "3",
       "data": "xx-xx-xxxx",
-      "hora": "xx:xx"
+      "hora": "xx:xx",
+      "local": "UAI"
     }
   ],
   "examesPraticos": [
