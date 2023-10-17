@@ -2,21 +2,21 @@
   "aulasTeoricas": [
     {
       "id": "1",
-      "numero": "111111111",
+      "codigo": "111111111",
       "data": "xx-xx-xxxx",
       "hora": "xx:xx",
       "instrutor": "instrutor1"
     },
     {
       "id": "2",
-      "numero": "222222222",
+      "codigo": "222222222",
       "data": "xx-xx-xxxx",
       "hora": "xx:xx",
       "instrutor": "instrutor2"
     },
     {
       "id": "3",
-      "numero": "333333333",
+      "codigo": "333333333",
       "data": "xx-xx-xxxx",
       "hora": "xx:xx",
       "instrutor": "instrutor1"
