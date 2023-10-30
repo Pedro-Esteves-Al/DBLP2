@@ -3,84 +3,84 @@
     {
       "id": "1",
       "numero": "111111111",
-      "data": "xx-xx-xxxx",
-      "hora": "xx:xx",
+      "data": "30-10-2023",
+      "hora": "09:00",
       "instrutor": "instrutor1"
     },
     {
       "id": "2",
       "numero": "222222222",
-      "data": "xx-xx-xxxx",
-      "hora": "xx:xx",
+      "data": "30-10-2023",
+      "hora": "10:30",
       "instrutor": "instrutor2"
     },
     {
       "id": "3",
       "numero": "333333333",
-      "data": "xx-xx-xxxx",
-      "hora": "xx:xx",
+      "data": "31-10-2023",
+      "hora": "14:15",
       "instrutor": "instrutor1"
     }
   ],
   "examesTeoricos": [
     {
       "id": "1",
-      "data": "xx-xx-xxxx",
-      "hora": "xx:xx",
+      "data": "01-11-2023",
+      "hora": "09:00",
       "local": "UAI"
     },
     {
       "id": "2",
-      "data": "xx-xx-xxxx",
-      "hora": "xx:xx",
+      "data": "02-11-2023",
+      "hora": "10:30",
       "local": "UAI"
     },
     {
       "id": "3",
-      "data": "xx-xx-xxxx",
-      "hora": "xx:xx",
+      "data": "03-11-2023",
+      "hora": "14:15",
       "local": "UAI"
     }
   ],
   "examesPraticos": [
     {
       "id": "1",
-      "data": "xx-xx-xxxx",
-      "hora": "xx:xx",
-      "logradouro": "logradouro1"
+      "data": "05-11-2023",
+      "hora": "09:00",
+      "local": "local1"
     },
     {
       "id": "2",
-      "data": "xx-xx-xxxx",
-      "hora": "xx:xx",
-      "logradouro": "logradouro2"
+      "data": "06-11-2023",
+      "hora": "10:30",
+      "local": "local2"
     },
     {
       "id": "3",
-      "data": "xx-xx-xxxx",
-      "hora": "xx:xx",
-      "logradouro": "logradouro3"
+      "data": "07-11-2023",
+      "hora": "14:15",
+      "local": "local3"
     }
   ],
   "aulasPraticas": [
     {
       "id": "1",
-      "data": "xx-xx-xxxx",
-      "hora": "xx:xx",
+      "data": "10-11-2023",
+      "hora": "09:00",
       "aluno": "Aluno1",
       "veiculo": "celta"
     },
     {
       "id": "2",
-      "data": "xx-xx-xxxx",
-      "hora": "xx:xx",
+      "data": "11-11-2023",
+      "hora": "10:30",
       "aluno": "Aluno2",
       "veiculo": "celta"
     },
     {
       "id": "3",
-      "data": "xx-xx-xxxx",
-      "hora": "xx:xx",
+      "data": "12-11-2023",
+      "hora": "14:15",
       "aluno": "Aluno1",
       "veiculo": "onibus"
     }
