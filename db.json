@@ -73,21 +73,21 @@
       "id": 1,
       "dia": "10-11-2023",
       "hora": "09:00",
-      "aluno": "Aluno1",
+      "instrutor": "instrutor1",
       "veiculo": "celta"
     },
     {
       "id": 2,
       "dia": "11-11-2023",
       "hora": "10:30",
-      "aluno": "Aluno2",
+      "instrutor": "instrutor2",
       "veiculo": "celta"
     },
     {
       "id": 3,
       "dia": "12-11-2023",
       "hora": "14:15",
-      "aluno": "Aluno1",
+      "instrutor": "instrutor1",
       "veiculo": "onibus"
     }
   ]
