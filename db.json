@@ -74,20 +74,23 @@
       "dia": "10-11-2023",
       "hora": "09:00",
       "instrutor": "instrutor1",
-      "veiculo": "celta"
+      "categoria": "A",
+      "veiculo": "yamaha fan"
     },
     {
       "id": 2,
       "dia": "11-11-2023",
       "hora": "10:30",
       "instrutor": "instrutor2",
+      "categoria": "B",
       "veiculo": "celta"
     },
     {
       "id": 3,
       "dia": "12-11-2023",
       "hora": "14:15",
-      "instrutor": "instrutor1",
+      "instrutor": "instrutor3",
+      "categoria": "C"
       "veiculo": "onibus"
     }
   ]
