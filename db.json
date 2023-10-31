@@ -47,24 +47,24 @@
       "id": 1,
       "dia": "05-11-2023",
       "hora": "09:00",
-      "Instrutor": "in1",
-      "Veículo": "vei1",
+      "instrutor": "in1",
+      "veiculo": "vei1",
       "local": "local1"
     },
     {
       "id": 2,
       "dia": "06-11-2023",
       "hora": "10:30",
-      "Instrutor": "in2",
-      "Veículo": "vei2",
+      "instrutor": "in2",
+      "veiculo": "vei2",
       "local": "local2"
     },
     {
       "id": 3,
       "dia": "07-11-2023",
       "hora": "14:15",
-      "Instrutor": "in3",
-      "Veículo": "vei3",
+      "instrutor": "in3",
+      "veiculo": "vei3",
       "local": "local3"
     }
   ],
