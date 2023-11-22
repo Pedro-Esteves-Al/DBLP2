@@ -3,66 +3,66 @@
     {
       "id": 1,
       "numero": "111111111",
-      "dia": "30-10-2023",
-      "hora": "09:00",
+      "dataAulaTeorica": "30-10-2023",
+      "horarioAulaTeorica": "09:00",
       "instrutor": 1
     },
     {
       "id": 2,
       "numero": "222222222",
-      "dia": "30-10-2023",
-      "hora": "10:30",
+      "dataAulaTeorica": "30-10-2023",
+      "horarioAulaTeorica": "10:30",
       "instrutor": 2
     },
     {
       "id": 3,
       "numero": "333333333",
-      "dia": "31-10-2023",
-      "hora": "14:15",
+      "dataAulaTeorica": "31-10-2023",
+      "horarioAulaTeorica": "14:15",
       "instrutor": 3
     }
   ],
   "examesTeoricos": [
     {
       "id": 1,
-      "dia": "01-11-2023",
-      "hora": "09:00",
+      "diaExameTeorico": "01-11-2023",
+      "horarioExameTeorico": "09:00",
       "local": "UAI"
     },
     {
       "id": 2,
-      "dia": "02-11-2023",
-      "hora": "10:30",
+      "diaExameTeorico": "02-11-2023",
+      "horarioExameTeorico": "10:30",
       "local": "UAI"
     },
     {
       "id": 3,
-      "dia": "03-11-2023",
-      "hora": "14:15",
+      "diaExameTeorico": "03-11-2023",
+      "horarioExameTeorico": "14:15",
       "local": "UAI"
     }
   ],
   "examesPraticos": [
     {
       "id": 1,
-      "dia": "05-11-2023",
-      "hora": "09:00",
+      "diaExamePratico": "05-11-2023",
+      "horarioExamePratico": "09:00",
       "instrutor": 1,
       "veiculo": 1,
       "local": "local1"
     },
     {
       "id": 2,
-      "dia": "06-11-2023",
-      "hora": "10:30",
+      "diaExamePratico": "06-11-2023",
+      "horarioExamePratico": "10:30",
       "instrutor": 2,
       "veiculo": 2,
       "local": "local2"
     },
     {
       "id": 3,
-      "dia": "07-11-2023",
-      "hora": "14:15",
+      "diaExamePratico": "07-11-2023",
+      "horarioExamePratico": "14:15",
       "instrutor": 3,
       "veiculo": 3,
       "local": "local3"
@@ -71,24 +71,24 @@
   "aulasPraticas": [
     {
       "id": 1,
-      "dia": "10-11-2023",
-      "hora": "09:00",
+      "diaAulaPratica": "10-11-2023",
+      "horarioAulaPratica": "09:00",
       "instrutor": 1,
       "categoria": "A",
       "veiculo": 1
     },
     {
       "id": 2,
-      "dia": "11-11-2023",
-      "hora": "10:30",
+      "diaAulaPratica": "11-11-2023",
+      "horarioAulaPratica": "10:30",
       "instrutor": 2,
       "categoria": "B",
       "veiculo": 2
     },
     {
       "id": 3,
-      "dia": "12-11-2023",
-      "hora": "14:15",
+      "diaAulaPratica": "12-11-2023",
+      "horarioAulaPratica": "14:15",
       "instrutor": 3,
       "categoria": "C",
       "veiculo": 3
