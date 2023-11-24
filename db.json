@@ -27,19 +27,19 @@
       "id": 1,
       "dataExameTeorico": "01-11-2023",
       "horarioExameTeorico": "09:00",
-      "local": "UAI"
+      "localExameTeorico": 1
     },
     {
       "id": 2,
       "dataExameTeorico": "02-11-2023",
       "horarioExameTeorico": "10:30",
-      "local": "UAI"
+      "localExameTeorico": 2
     },
     {
       "id": 3,
       "dataExameTeorico": "03-11-2023",
       "horarioExameTeorico": "14:15",
-      "local": "UAI"
+      "localExameTeorico": 3
     }
   ],
   "examesPraticos": [
@@ -49,7 +49,7 @@
       "horarioExamePratico": "09:00",
       "instrutor": 1,
       "veiculo": 1,
-      "local": "local1"
+      "localExamePratico": 1
     },
     {
       "id": 2,
@@ -57,7 +57,7 @@
       "horarioExamePratico": "10:30",
       "instrutor": 2,
       "veiculo": 2,
-      "local": "local2"
+      "localExamePratico": 2
     },
     {
       "id": 3,
@@ -65,7 +65,7 @@
       "horarioExamePratico": "14:15",
       "instrutor": 3,
       "veiculo": 3,
-      "local": "local3"
+      "localExamePratico": 3
     }
   ],
   "aulasPraticas": [
@@ -74,7 +74,7 @@
       "dataAulaPratica": "10-11-2023",
       "horarioAulaPratica": "09:00",
       "instrutor": 1,
-      "categoria": "A",
+      "categoria": 1,
       "veiculo": 1
     },
     {
@@ -82,7 +82,7 @@
       "dataAulaPratica": "11-11-2023",
       "horarioAulaPratica": "10:30",
       "instrutor": 2,
-      "categoria": "B",
+      "categoria": 2,
       "veiculo": 2
     },
     {
@@ -90,7 +90,7 @@
       "dataAulaPratica": "12-11-2023",
       "horarioAulaPratica": "14:15",
       "instrutor": 3,
-      "categoria": "C",
+      "categoria": 3,
       "veiculo": 3
     }
   ]
